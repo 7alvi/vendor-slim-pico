@@ -1,3 +1,4 @@
+add_lunch_combo slim_pico-userdebug
 add_lunch_combo slim_d2att-userdebug
 add_lunch_combo slim_d2vzw-userdebug
 add_lunch_combo slim_d2spr-userdebug
